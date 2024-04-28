@@ -1,2 +1,5 @@
 # Truth-Table
-Truth Table generator, acknowledgement of resources from Stanford edu.
+Truth Table Generator.
+
+Acknowledgement of Resources from Keith Schwarz, Stanford University.
+
